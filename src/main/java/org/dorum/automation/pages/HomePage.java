@@ -12,6 +12,7 @@ public class HomePage extends BasePage {
 
     public void openPage(String url) {
         WebDriverContainer.getDriver().get(url);
+        WebDriverWaitUtils.waitForUrlToContain(url);
         log.info("{} was opened", url);
     }
 

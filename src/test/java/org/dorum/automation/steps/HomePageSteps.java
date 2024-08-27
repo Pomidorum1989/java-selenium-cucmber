@@ -1,4 +1,4 @@
-package org.dorum.automation.runners.steps;
+package org.dorum.automation.steps;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

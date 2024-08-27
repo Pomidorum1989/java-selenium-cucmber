@@ -7,4 +7,6 @@ Feature: DataProvider Example
     Examples:
       | url                    | title  |
       | https://www.google.com | Google |
-      | https://www.bing.com   | Bing   |
+      | https://www.tesla.com  | Tesla  |
+      | https://www.adobe.com  | Adobe  |
+      | https://www.apple.com  | Apple  |

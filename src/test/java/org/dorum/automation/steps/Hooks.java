@@ -1,4 +1,4 @@
-package org.dorum.automation.runners.steps;
+package org.dorum.automation.steps;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
